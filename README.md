@@ -2,6 +2,7 @@
 - 👀 I’m interested in learing programming languages.
 - 🌱 I’m currently learning C,Java, DS Algorithms. 
 - 📫 How to reach me @dikshavarshney802@gmail.com.
+- 📫 How to reach me @diksha.2224mca1031@kiet.edu
 - 📫 My linkedin profile https://www.linkedin.com/in/diksha-varshney-81954622a/
 
 <!---
